@@ -1,4 +1,4 @@
-from reminder import PoliteReminder
+from src.reminder import PoliteReminder
 import csv
 
 def list_reminders():
