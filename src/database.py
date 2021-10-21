@@ -1,4 +1,4 @@
-from deadlined_reminders import DeadlinedReminder
+from src.deadlined_reminders import DeadlinedReminder
 import csv
 
 def list_reminders():
